@@ -1,0 +1,8 @@
+.info{font-size: 20px;}
+    
+#descriPersonal, #Educ ,#expLab, #hab, #why, #hobb, 
+#fecha, #mail, #cuil {font-size: 17px;}
+    
+h1{text-align: center;}
+
+body{font-family: Arial, Helvetica, sans-serif;}
